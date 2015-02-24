@@ -1,0 +1,948 @@
+
+Chapter 1
+
+Introduction
+Over the last three decades, 401(k) plans have evolved into one of the most popular employee benefits. A 401(k) plan may be a stand-alone plan or a feature of a profit sharing or stock bonus plan. When a 401(k) feature is incorporated into a plan, the plan is called a 401(k) plan or a cash or deferred arrangement (CODA). We refer to such arrangements throughout this book as 401(k) plans. A 401(k) plan allows eligible employees the choice between receiving certain amounts in cash or directing the sponsoring employer to contribute these amounts to the qualified plan. Once contributed to the plan, these amounts are fully and immediately vested. However, distributions of these amounts are restricted by law. To retain its qualified status, the 401(k) plan must operate in a nondiscriminatory manner. In other words, the plan must not favor highly compensated over non-highly compensated employees.
+This chapter provides an overview of 401(k) plans, including the Roth 401(k) option, their evolution, and pros and cons for employers and employees. It looks at the extent to which 401(k) plans are used today and at the role of 401(k) plans as a benefit into the next century and lists recent legal developments.
+
+History of 401(k) Plans
+Advantages and Disadvantages of 401(k) Plans
+Taxes and 401(k) Plans
+Analyzing the Roth 401(k) Option
+Table 1-1. Base Case—Annual Cash Available
+Table 1-2. Cash Available at Age 65
+Table 1-3. Cash Available at Age 65 If Annual Cash Available ($3,750) Is Invested in Side Fund
+Table 1-4. Roth Contributions Made Net of Tax
+Table 1-5. Lower Post-Retirement Tax Rate
+Table 1-6. Higher Post-Retirement Tax Rate
+Table 1-7. Impact of Higher Earnings Rate
+ Table 1-8. Rollover to Roth IRA—Defer Distributions to Age 90
+Table 1-9. Higher Earnings Rate—Defer Distributions to Age 90
+Types of Entities That May Use 401(k) Plans
+When a 401(k) Plan Is Appropriate
+Multiemployer and Multiple-Employer 401(k) Plans
+Multiple-Employer Plans
+Market for and Utilization of 401(k) Plans
+Future of 401(k) Plans
+Legislative and Regulatory Developments Affecting 401(k) Plans
+The Economic Growth and Tax Relief Reconciliation Act of 2001
+The Pension Protection Act of
+The Uniformed Services Employment and Reemployment Rights Act of 1994
+The Heroes Earnings and Assistance Relief Tax (HEART) Act of 2008
+The Worker, Retiree, and Employer Recovery Act of 2008
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010
+The American Taxpayer Relief Act of 2012
+Proposed Legislation and Regulatory Developments
+
+
+
+History of 401(k) Plans
+Q 1:1   What was the Internal Revenue Service's position on cash or deferred arrangements prior to the addition of Section 401(k) to the Internal Revenue Code?
+A cash or deferred arrangement (CODA) was a popular feature in profit sharing plans sponsored by a number of banks in the early to mid-1950s. Under this type of arrangement, an eligible employee could either elect to receive a portion of the profit sharing contribution in cash or to defer it in a profit sharing plan. The Internal Revenue Service (IRS) was somewhat wary of this arrangement but did issue some guidance in 1956. The IRS allowed for this arrangement if two requirements were met:
+ 
+	1.	The participant made an irrevocable election to defer the profit sharing contribution before the close of the plan year for which the profit sharing contribution was made.
+	2.	More than half of the participants in the plan (who elected to defer) were among the lowest paid two thirds of all eligible employees.
+ 
+[Rev. Rul. 56-497, 1956-2 C.B. 284]
+The IRS later reaffirmed that this type of arrangement could be a qualified plan. Subsequently, it ruled that if such a plan met the nondiscrimination rules of Revenue Ruling 56-497, the deferred contributions would be exempt from the IRS doctrine of constructive receipt. [Rev. Rul. 63-180, 1963-2 C.B. 189] Further clarification of this position was issued in another revenue ruling in 1968. [Rev. Rul. 68-89, 1968-1 C.B. 402]
+Despite these positive rulings, CODAs never became wildly popular. By the early 1970s, there were fewer than 1,000 plans in existence.
+The IRS issued proposed regulations in 1972 that dramatically changed its previous position. Under the proposed regulations, salary reduction contributions would have been treated, for tax purposes, as if they had been received by the employee in cash. Although the regulations did not deal directly with the profit sharing deferral arrangements, they cast doubt on these arrangements. Conceptually, the IRS found it difficult to distinguish between the two types of deferrals.
+Congress became concerned about the IRS stance in 1974. When Congress passed the Employee Retirement Income Security Act (ERISA), the act contained a provision that froze the existing tax status of CODAs until the end of 1976. Any such arrangements in existence on June 27, 1974, retained their tax-favored status. The moratorium was deferred twice, the last time until the end of 1979.
+
+Q 1:2   How did the passage of Code Section 401(k) influence the growth of cash or deferred arrangements?
+Congress followed up in 1978 when it passed the Revenue Act of 1978. Permanent provisions were added to the Internal Revenue Code, Section 401(k), effective for plan years beginning after December 31, 1979. The IRS issued proposed regulations in 1981 that sanctioned the use of salary reductions as a source of plan contributions. The floodgates were opened, as employers responded in 1982 with the adoption of new 401(k) plans and the conversion of existing thrift plans from after-tax contributions to pre-tax contributions.
+The Tax Reform Act of 1984 (TRA '84) modified the rules for 401(k) plans in subtle ways. It eliminated the possibility of integrating 401(k) plans with Social Security. Nondiscrimination tests, which previously had been safe harbors with an alternative of testing under the general qualified plan nondiscrimination rules, became mandatory. In addition, certain money purchase pension plans that allowed for salary reductions and were in existence before the passage of ERISA were grandfathered under this law.
+Congress and the IRS became seriously concerned about the popularity of these plans in early 1986. The growth of 401(k) plans meant immediate revenue loss to the government, and many in government were concerned about the impact of 401(k) plans on the budget deficit. Some thought was given to repealing Code Section 401(k) entirely. Ultimately, in the Tax Reform Act of 1986 (TRA '86) Congress chose to tighten up the nondiscrimination rules and reduce the maximum annual amount that could be deferred in a 401(k) plan.
+In 1991 the IRS issued final regulations that explain the statutory requirements of Section 401(k). In 2004, the IRS issued a comprehensive set of regulations intended to centralize authority for 401(k) plan issues that previously had been scattered among various sources of authority.
+On August 17, 2006, the Pension Protection Act (PPA) was signed into law. [Pub. L. No. 109-280, 120 Stat. 780] The PPA makes significant changes to 401(k) plans. Many of the changes are designed to encourage higher savings rates and investment results, reflecting a growing awareness that 401(k) plans will be a major source of retirement income for future retirees.
+
+Advantages and Disadvantages of 401(k) Plans
+Q 1:3   How does offering a 401(k) plan benefit the employer?
+From the perspective of the sponsoring employer, there are a number of reasons to offer a 401(k) plan to employees. A 401(k) plan is a low-cost means of providing visible and appreciated retirement benefits to employees. It offers employees a real opportunity to participate actively in saving for retirement on a pre-tax basis. A sponsoring employer may use a 401(k) plan as its sole retirement plan or as a supplement to an existing plan. In larger organizations, a 401(k) plan is sometimes used to supplement an existing defined benefit plan.
+For a cash-strapped employer, a 401(k) plan can help the employer address employee pressures for additional cash compensation without significant added cost and without jeopardizing employees' retirement income security. A matching contribution may provide the incentive for employees to save on a pre-tax basis. A discretionary match may be tied to company strategic compensation objectives. A 401(k) plan can also improve the participation and effectiveness of an existing thrift plan.
+The plan may also be used as a vehicle to attract and retain qualified employees. To the extent the plan has discretionary employer contributions, the plan can be used to reward employees during years when the employer has reached its profitability objective. The 401(k) plan can improve morale and employee satisfaction, thereby improving productivity. If the 401(k) plan allows for the purchase of employer securities, this can increase an employee's sense of corporate identity.
+Because of its inherent flexibility, the 401(k) plan can provide benefits to meet very different employee objectives. At little or no added cost, the 401(k) plan allows employees to take some responsibility for their own retirement savings.
+For employers with existing retirement plans, a 401(k) plan can be a very attractive supplement. To the extent that an employer is being pressured to increase benefit levels in a defined benefit plan, the addition of a 401(k) plan can be a low-cost substitute for benefit increases.
+
+Q 1:4   How do competitive pressures motivate an employer to establish a 401(k) plan?
+An employer operating in a highly competitive industry will be looking for a way to reduce costs to gain a competitive advantage. Such an employer may view the 401(k) plan as a vehicle for cost sharing, recognizing the need for employees to bear a portion of the cost of saving for their retirement.
+In other cases, the benefit plans of competitors may be an employer's primary motivation for adopting a 401(k) plan. The design of a competitor's 401(k) plan can serve as the basis for incorporating features into a new 401(k) plan, including the level of match, the availability of investment options, loan and withdrawal features, and educational services.
+
+Q 1:5   What tax-related objectives may an employer have in establishing a 401(k) plan?
+Some employers will set up a 401(k) plan with dual objectives: to provide employees with the opportunity for pre-tax deferral and the employers themselves with significant tax-deductible contributions. Such plans will generally set lower caps on deferral percentages to ensure that sufficient deductible employer contributions may be made and still meet the overall compensation contribution limit (see chapter 8).
+
+Q 1:6   How can a 401(k) plan replace or supplement a defined benefit plan?
+Employers with existing defined benefit plans may find that employees do not appreciate or understand the pension plan. Yet employers may be reluctant to terminate the plan out of concern for providing a minimum level of benefit security for their employees. The 401(k) plan in such a situation will need to be a highly visible plan. Attractive features such as a matching contribution, a wide range of investments, and loan or withdrawal options will help the plan to become more visible to employees. Frequent reports will also be an effective tool for maintaining the high profile of the 401(k) plan.
+Employers with defined benefit plans may find their retirees dissatisfied with their current level of benefits. Cost-of-living adjustments can help to ease the concern of retirees, but significant benefit increases for existing employees may not be affordable. A 401(k) plan can be designed to supplement an existing defined benefit plan, with the employee and employer jointly bearing the cost. If the employer chooses to freeze the defined benefit plan, establishing a 401(k) plan that offers some type of guaranteed lifetime income investment product may make that decision more palatable to employees.
+
+Q 1:7   What type of employer is most likely to offer both a 401(k) and a defined benefit plan?
+Organizations with larger employee populations are more likely to offer both plan types.
+
+Q 1:8   Are there disadvantages to an employer in sponsoring a 401(k) plan?
+The 401(k) plan does have some disadvantages from an employer's perspective. The administration of the plan can be costly and complex. Even larger employers who had previously maintained a staff to administer the plan are outsourcing functions to lower-cost providers. If the actual deferral percentage (ADP) test is not passed (see chapter 13), employee relations problems may result when highly compensated employees (HCEs) receive taxable refunds after the close of the plan year.
+A 401(k) plan requires intensive communication throughout its life cycle. If the plan is not adequately communicated, the effectiveness of the 401(k) plan as an employee benefit will be lost.
+Certain employers may find that the demographics of their employee base preclude the adoption of a 401(k) plan. In certain industries with high turnover, lower-paid employees may prefer cash. Since the success of a 401(k) plan is measured by the degree of participation of lower-paid employees, such a plan may be doomed to failure.
+As plan sponsor, the employer must accept some fiduciary responsibility for the management of the plan and its assets. Though many plan functions can be delegated to others, the employer will inevitably be left with some responsibility (and corresponding potential liability) for the plan's operation (see chapter 5).
+
+Q 1:9   How does a 401(k) plan benefit employees?
+From the employee's perspective, the 401(k) plan offers a unique opportunity to reduce current federal and state income taxes. The tax-sheltered aspects of the 401(k) plan make it an ideal vehicle for retirement savings. The ultimate tax paid by the employee may be lower, since the employee may find himself or herself in a lower bracket at retirement or when funds are withdrawn.
+The 401(k) plan offers an employee a great deal of flexibility and choice: whether or not to defer, how much to defer, where to invest (if allowed by the plan), and when to change the deferral amount or investments. As an employee's circumstances change, different choices may be made. The availability of loans and hardship withdrawals means that invested funds can be used when personal financial circumstances change dramatically. The relative portability of a 401(k) plan allows an employee to change jobs without a significant loss in retirement benefits.
+For an employee at a middle or high range of pay, the availability of deductible IRA contributions may be limited because of the existence of an employer's other qualified plan. The 401(k) plan will provide a very attractive option for deductible contributions through periodic savings.
+Beginning in 2006, employers with 401(k) plans may also offer participants the option to make deferrals to a Roth 401(k). With a Roth 401(k) plan, income tax is paid at the time of deferral, but earnings on the deferred amounts are distributed tax free, provided certain requirements are met (see chapter 18). This option affords participants some significant tax-planning opportunities.
+The Pension Protection Act of 2006 [Pub. L. No. 109-280, 120 Stat. 780] (PPA) made a number of changes designed to make automatic enrollment plans more attractive to both employers and employees. This type of plan design, which essentially causes employees to participate in a retirement plan unless they take affirmative action, and to invest in funds with both fixed-income and equity exposure, may increase the number of individuals who are able to retire with substantial 401(k) account balances.
+
+Q 1:10   How may a 401(k) plan supplement an employee's personal savings program?
+Employees covered by a qualified plan and at a middle range of pay may be precluded from making a deductible contribution to an IRA and so will find the 401(k) plan an attractive alternative. Even lower-paid employees will find the 401(k) plan an attractive and convenient means of saving through payroll deduction. In these types of plans, matching contributions may be low or nonexistent—the primary objective is providing the opportunity for pre-tax savings.
+
+Q 1:11   How is a 401(k) plan viewed by employees in a competitive environment?
+In an era of global competition, layoffs can create tremendous pressure on households relying on dual incomes to maintain their lifestyles. If one spouse is laid off, the spouse who is currently employed will have a greater need for cash compensation and may be reluctant to commit any funds to a 401(k) plan. On the other hand, the presence of hardship withdrawal and loan features may provide the employee with the assurance that the funds are accessible in the event of financial difficulty.
+
+Q 1:12   Are there disadvantages to an employee for participating in a 401(k) plan?
+The employee may see some disadvantages in a 401(k) plan. Withdrawal rules will restrict access to funds before retirement or termination of employment. If funds are available before termination of employment, the 10 percent withdrawal penalty may significantly increase taxes on distribution. If the plan allows an employee to make investment choices, the employee may make poor ones and seriously undermine the value of retirement benefits in the 401(k) plan.
+
+Taxes and 401(k) Plans
+In considering whether to defer a portion of their current salaries in a 401(k) plan or similar program, employees must decide whether the deferral makes sense from a tax standpoint. If tax rates today are at their lowest point, does it make sense to defer today and pay more taxes tomorrow? The answer depends on a number of factors:
+ 
+	1.	Rate of return on assets before taxes;
+	2.	Rate of return on after-tax assets;
+	3.	The increase in tax rates; and
+	4.	The time at which tax rates will change.
+ 
+This analysis is further complicated by the option to make Roth, or after-tax, contributions and the potential to avoid any tax on earnings. The questions and answers in this section analyze different assumptions in demonstrating that tax deferral is generally the best alternative.
+
+Q 1:13   In a stable tax environment, what are the advantages of accumulating money in a tax-deferred vehicle?
+If tax rates remain stable or decline, it inevitably makes sense to accumulate money in a tax-deferred vehicle. Consider an employee who defers $2,000 per year for 20 years in a 401(k) plan or an IRA. The 20-year accumulation after taxes in the tax-deferred vehicle versus after-tax savings is shown below.
+
+28 Percent Tax Bracket
+
+
+
+
+Interest Rate
+401(k) or Traditional IRA
+After-Tax Savings
+Difference
+6%
+$ 52,971
+$ 44,333
+$ 8,638
+8
+65,897
+51,625
+14,272
+10
+82,476
+60,339
+22,137
+12
+103,756
+70,760
+32,996
+ 
+Note: This table assumes that an individual is able to invest after-tax money as effectively as the 401(k) plan or IRA.
+
+Q 1:14   Does it make sense to defer compensation in a rising tax environment?
+Consider an employee who participates in a 401(k) plan and has an opportunity to receive a bonus currently or defer the bonus for a fixed number of years. Suppose the employee expects tax rates to rise from 33 percent to 50 percent in 15 years. Should the employee defer a bonus of $5,000 for 15 years?
+The employee's alternatives are compared at interest rates of 6, 8, and 12 percent as follows.
+At a 6 percent rate of return, there is little difference between after-tax savings and the 401(k) plan:
+
+
+
+Year
+401(k) Account
+After-Tax Savings Account
+0
+$ 5,000
+$3,350
+15
+$11,983
+$6,051
+Tax rate
+50%
+0%
+After taxes
+$ 5,991
+$6,051
+
+Difference: $60
+
+At 8 percent interest, the 401(k) plan is somewhat more favorable:
+
+
+
+Year
+401(k) Account
+After-Tax Savings Account
+0
+$ 5,000
+$3,350
+15
+$15,681
+$7,331
+Tax rate
+50%
+0%
+After taxes
+$ 7,930
+$7,331
+
+Difference: $599
+
+At 12 percent interest, the 401(k) plan is clearly more favorable:
+
+
+
+Year
+401(k) Account
+After-Tax Savings Account
+0
+$ 5,000
+$ 3,350
+15
+$27,368
+$10,686
+Tax rate
+50%
+0%
+After taxes
+$13,684
+$10,686
+
+Difference: $2,998
+
+The rate of return on tax-deferred savings is a critical element in determining whether it makes sense to defer money in a period when tax rates rise significantly.
+
+Q 1:15   If an employee chooses to defer salary for a period of ten years, what impact will tax rate changes have?
+The employee making a decision to defer a bonus for ten years may want to analyze whether it makes sense to defer if Congress raises tax rates at the end of ten years. Assuming that the employee is currently in a 33 percent tax bracket, tax rates would need to rise to the following levels to destroy the advantage of tax-deferred savings:
+
+
+Earnings
+Minimum Tax Bracket
+6%
+44.50%
+8
+47.70
+10
+50.60
+12
+53.35
+
+If the employee is relatively pessimistic about future tax rates, a decision might be made to take the bonus currently.
+
+Q 1:16   How does a 401(k) plan compare with an after-tax investment in a tax-deferred investment vehicle?
+The comparison between a 401(k) plan and an after-tax investment is best illustrated by the following example.
+ 
+Example. An employee who is 40 years old had the opportunity to defer $13,000 in a 401(k) plan and would like to compare the after-tax accumulation (after 15 years) with a deferred annuity product. The employee is in the 33 percent tax bracket now, intends to retire at age 55, and anticipates that tax rates will increase to 40 percent after 10 years. The scheduled increase to the 401(k) limit is $1,000 per year until 2006 and then assumed to increase at $500 per year thereafter.
+Double Tap to Enlarge Image
+￼
+Double Tap to Enlarge Image
+￼
+
+The accumulation in both plans is significant: $451,783 in the 401(k) plan versus $292,609 in the deferred annuity. If the employee retires at age 55 from the company, the 401(k) proceeds will not be subject to a 10 percent premature distribution tax. The accumulation of $451,783, if taken in a lump sum, will be subject to the 40 percent tax rate. The net available for the employee will be $271,070 after taxes.
+On the other hand, if the employee puts the same amount (after tax) in a deferred annuity and withdraws the proceeds at age 55, the earnings will be subject to a 10 percent premature distribution tax. The total earnings of $126,034 will be subject to the 40 percent tax rate plus the 10 percent penalty rate. The net proceeds available to the employee from the deferred annuity will be $229,592, or $41,478 less than the amount available from the qualified plan.
+If the company makes a matching contribution to the 401(k) plan, the employee will be significantly further ahead by choosing to defer in the 401(k) plan.
+
+Q 1:17   When might a company choose after-tax savings over a 401(k) plan?
+In a small, closely held business, an owner may choose after-tax savings if the after-tax amount is greater than the amount that may be deferred in a 401(k) plan.
+In the case of a larger business, an after-tax savings plan will make sense only if the 401(k) plan has poor participation and high administrative costs as a percentage of plan assets. Because of the significant economic advantages of accumulating funds in a tax-sheltered environment, it may make more sense to convince the employee group of the value of the 401(k) plan.
+
+Analyzing the Roth 401(k) Option
+Employees can be offered the choice of making contributions to a 401(k) plan on an after-tax, or Roth, basis. Earnings on after-tax contributions are distributed tax free if certain requirements are met. (See chapters 2 and 18 for detailed descriptions of the rules governing Roth 401(k) contributions and taxation of distributions from Roth 401(k) plans.)
+The decision regarding whether to make contributions on a pre-tax or an after-tax basis is a complicated one. The questions and answers that follow provide some illustrations that may be useful in making an analysis.
+
+Q 1:18   What factors should be considered when deciding whether to contribute on a Roth basis or a before-tax basis?
+The decision about whether to contribute to a traditional 401(k) plan or a Roth 401(k) plan is a complicated one that is best made with the help of a personal financial and tax adviser. The following factors are relevant to the decision-making process:
+ 
+	•	The participant's ability to maximize deferrals and pay current income tax
+	•	The participant's anticipated pre- and post-retirement income tax rates
+	•	The anticipated earnings rate on investments
+	•	The number of years before distribution of benefits is needed
+	•	The level of concern for tax diversification
+	•	Confidence in the participant's ability to keep Roth money in the plan until “qualified” (i.e., five years in the plan and distribution due to participant's attainment of age 59½ or the participant's death or disability)
+
+Q 1:19   How does ability to maximize deferrals and pay current income tax affect the decision regarding participation in a Roth 401(k) plan?
+A participant who maximizes deferrals and pays current income tax on the deferral will generally be better off at retirement age than if he or she makes pre-tax deferrals and invests the money not used to pay current income tax in a taxable side fund.
+ 
+
+ 
+Example 1. Sam, age 40, earns $50,000 a year. He is in the 25 percent income tax bracket before retirement and will be in the same tax bracket after retirement. He contributes a total of $15,000 annually to a retirement account and earns 7 percent on his investments. As illustrated in Table 1-1, if Sam participates in a Roth 401(k) plan, he would have $51,914 ($948,735 – $896,821) more at retirement age than he would have if he participates in a traditional 401(k) plan.
+
+Table 1-1. Base Case—Annual Cash Available
+
+
+
+
+Before Tax
+After Tax
+Sam's salary
+$50,000
+$50,000
+Contribution
+$15,000
+$15,000
+Tax rate
+25%
+25%
+Tax
+$ 8,750
+$12,500
+Net annual cash available + $3,750 before taxes
+
+Table 1-2. Cash Available at Age 65
+
+
+
+
+Before Tax
+After Tax (Roth)
+Earnings rate
+7%
+7%
+Account at age 65
+$948,735
+$948,735
+Tax less 25% tax rate
+($237,184)
+—
+After-tax amount at age 65
+$ 711,735
+$948,735
+Net Cash Available Age 65 + $237,184 in Roth 401(k)
+
+The Roth advantage is misleading, however, because if Sam made before-tax contributions, he would have $3,750 more in cash each year (representing income tax savings) than he would if he contributed to a Roth 401(k). To make a more meaningful comparison, Table 1-3 looks at the results if Sam invested that extra $3,750 pre-tax money in a taxable side fund.
+
+Table 1-3. Cash Available at Age 65 If Annual Cash Available ($3,750) Is Invested in Side Fund
+
+
+
+
+Before Tax
+After Tax (Roth)
+Earnings rate
+$711,551
+$948,735
+Side fund after tax
+$185,270
+—
+Total cash at age 65
+$896,821
+$948,735
+Net Cash Available Age 65 + $51,914 in Roth 401(k)
+
+
+ 
+Example 2. The facts are the same as those in Example 1, except that Sam cannot afford to both contribute the maximum to his 401(k) account and pay taxes. He reduces the amount of his contribution to the 401(k) plan by the amount of any income taxes due on a Roth contribution. The results would be as shown in Table 1-4.
+
+Table 1-4. Roth Contributions Made Net of Tax
+
+
+
+
+Before Tax
+After Tax (Roth)
+Annual contribution
+$15,000
+$11,250
+Account at age 65
+948,735
+711,551
+25% tax
+($237,551)
+—
+Total cash at age 65
+$711,551
+$711,551
+
+In this case, there is no advantage to Sam's choosing the Roth 401(k) option. If the reduced contribution using a Roth results in missing out on any portion of an employer matching contribution, Sam will be worse off with the Roth.
+
+Q 1:20   How do anticipated post-retirement tax rates affect the decision whether to participate in a Roth 401(k)?
+Generally speaking, the more that the participant's tax rate is expected to increase after retirement, the more it makes sense to participate in a Roth 401(k), and the more that the participant's tax rate is anticipated to decrease after retirement, the less it makes sense to participate in a Roth 401(k).
+In the following example, the assumptions are the same as those in Example 1 in Q 1:19, except that this taxpayer's tax rate is expected to decrease after retirement.
+ 
+Example 1. Sally, age 40, earns $50,000 a year. Her pre-retirement tax rate is 25 percent. Her tax rate after retirement is expected to drop to 15 percent. By making pre-tax deferrals instead of after-tax deferrals to a Roth 401(k), Sally would have $42,960 more at retirement. Table 1-5 illustrates the break-even point where a decrease in post-retirement tax rates will not generate an advantage in contributing before-tax monies.
+
+Table 1-5. Lower Post-Retirement Tax Rate
+
+
+
+
+Before Tax
+After Tax (Roth)
+Plan account at age 65
+$948,735
+$948,735
+15% tax
+($142,310)
+—
+Side fund after tax
+$185,270
+—
+Total cash at age 65
+$991,695
+$948,735
+Net Cash Available at Age 65 + $42,960 Before Tax
+
+Example 2. Assume that Sally's pre-retirement tax rate is 25 percent and her post-retirement tax rate is 35 percent. Because Sally's tax rate rises after retirement, the Roth option will give her $146,787 more at age 65 than if she contributed before-tax dollars to a traditional 401(k) plan.
+
+Table 1-6. Higher Post-Retirement Tax Rate
+
+
+
+
+Before Tax
+After Tax (Roth)
+Plan account at age 65
+$948,735
+$948,735
+35% tax
+($332,057)
+—
+Side fund after tax
+$185,270
+—
+Total cash at age 65
+$801,948
+$948,735
+Net Cash Available at Age 65 + $146,787 in Roth 401(k)
+
+Q 1:21   How does a participant's anticipated earnings rate affect the decision regarding the Roth 401(k) option?
+The Roth 401(k) option enables participants to completely avoid, rather than just defer, tax on earnings. Therefore, the higher the earnings rate, the more advantageous the Roth will be. In Q 1:19 (Example 1), it was shown that a participant who invests $15,000 annually in a Roth account earning 7 percent interest would give the participant an advantage in the amount of $51,914 at age 65. As shown in Table 1-7, we assume a 10 percent earnings rate, the Roth advantage would rise to $113,884.
+
+Table 1-7. Impact of Higher Earnings Rate
+
+
+
+
+Before Tax
+After Tax (Roth)
+Earnings rate
+10%
+10%
+Plan account at age 65
+$1,475,206
+$1,475,206
+25% tax
+($368,801)
+—
+After-tax amount at age 65
+$1,106,405
+$1,475,206
+Total cash at age 65
+$1,361,322
+$1,475,206
+Net Cash Available at Age 65 + $113,884 in Roth 401(k)
+
+Q 1:22   How does the number of years until benefits are needed affect the decision regarding a Roth 401(k)?
+As a general rule, as long as all contributions remain in the plan, there is no advantage to having a Roth 401(k) because there are no taxes due on earnings. It is only when benefits are distributed and the earnings on pre-tax contributions become taxable that the Roth 401(k) provides a potential advantage. One of the unique characteristics of the Roth 401(k) is that the account can be rolled over to a Roth IRA, thereby avoiding the requirement to begin taking minimum distributions at age 70½. One of the most significant advantages of having a Roth 401(k) is in situations where the participant does not need to take any pre-death distributions from the 401(k) account but can afford to let the assets accumulate past age 70½.
+Table 1-8 illustrates the difference between a participant at age 90 who was forced to take minimum distributions at age 70½ and invest the after-tax proceeds from those distributions in a taxable side fund, and a participant who makes Roth contributions and is able to continue accumulating interest without paying any tax on earnings through age 90. The participant who contributed to a Roth is ahead of the game at age 90 by $1,046,921.
+
+Table 1-8. Rollover to Roth IRA—Defer Distributions to Age 90
+
+
+
+
+Before Tax
+After Tax (Roth)
+Plan account at age 65
+$948,735
+$948,735
+Plan account at age 90 (after RMDs)
+$1,487,435
+$5,149,192
+25% Tax
+($371,859)
+—
+Side fund after tax at age 90
+$2,986,695
+—
+Total cash at age 90
+$4,102,271
+$5,149,192
+Net Cash Available at Age 90 + $1,046,921 Roth
+
+Table 1-9 illustrates that when deferred distribution to age 90 is combined with a 10 percent earnings rate, the advantage of choosing the Roth 401(k) option becomes very significant, over $4 million.
+
+Table 1-9. Higher Earnings Rate—Defer Distributions to Age 90
+
+
+
+
+Before Tax
+After Tax (Roth)
+Earnings rate
+10%
+10%
+Plan account at age 65
+$1,475,206
+$1,475,206
+Plan account at age 90 (after RMDs)
+$4,617,092
+$15,983,423
+25% Tax
+($1,154,273)
+—
+Side fund after tax at age 90*
+$8,311,019
+—
+Total cash at age 90
+$11,773,928
+$15,983,423
+Total Cash at Age 90 + $4,209,495 Roth
+
+Q 1:23   How does the level of concern for tax diversification affect the decision regarding the Roth 401(k)?
+For participants whose 401(k) plans already have significant amounts that will be subject to tax on earnings and who are uncertain whether their post-retirement tax rate will be higher or lower than their pre-retirement tax rate, contributing to a Roth 401(k) plan is a way to hedge their bet. If the participant accumulates a comparable Roth account balance, then a change in tax rates will hurt the participant in one account but help him or her in the other, thus minimizing the potential negative (and positive) impact of a change in tax rates.
+
+Q 1:24   How does the extension of EGTRRA affect a participant's decision regarding the Roth 401(k)?
+The Pension Protection Act of 2006 made EGTRRA permanent as it relates to Roth 401(k) plans and other retirement plans, thus eliminating the concern that Roth 401(k)s might be eliminated.
+
+Q 1:25   How does a participant's confidence that he or she can avoid taking distributions from the Roth account until the account is “qualified” affect the decision regarding a Roth 401(k)?
+The tax advantages of a Roth 401(k) account are available only if no distributions are made before the end of the five-year holding period (see Q 18:59), and the distributions are due to the participant's attaining age 59½ or the participant's death or disability. If a participant anticipates requiring a distribution prior to the time when his or her account becomes qualified, it generally will not make sense to contribute to a Roth.
+
+Types of Entities That May Use 401(k) Plans
+Q 1:26   What entities may adopt a 401(k) plan?
+401(k) plans may be adopted by sole proprietorships, partnerships, limited liability companies (LLCs), tax-exempt organizations, or corporations (including Subchapter S corporations). Beginning in 1987 and continuing through 1996, tax-exempt employers were not allowed to adopt 401(k) plans. Beginning in 1987, state and local governments or political subdivisions, agencies, or instrumentalities thereof, other than rural cooperatives, were not allowed to adopt 401(k) plans. A grandfather provision permits employers of tax-exempt entities or government units that maintained a 401(k) plan before 1986 to continue offering 401(k) plans to their current employees. [I.R.C. § 401(k)(4)(B)]
+
+Q 1:27   Can other types of cash or deferred arrangements be offered by governmental or tax-exempt employers?
+Yes. Employees of the federal government can contribute to the Federal Thrift Savings Fund, which functions in many respects like a 401(k) cash or deferred arrangement. Employees of public schools or certain charitable or religious entities exempt from tax under Code Section 501(c)(3) may use individual salary reduction agreements to make contributions to an annuity contract (see chapter 21). [I.R.C. §§ 402(g)(3)(C), 403(b)] Employees of state and local governments may be able to use similar salary reduction arrangements (see chapter 22). [I.R.C. § 457]
+
+Q 1:28   What kinds of plans may offer a 401(k) feature?
+Profit sharing plans, stock bonus plans (including employee stock ownership plans), rural cooperative plans, or pre-ERISA money purchase plans may include a 401(k) feature. [I.R.C. § 401(k)(1); Treas. Reg. § 1.401(k)-1(a)(1)] Defined benefit plans or post-ERISA target or money purchase plans may not contain a 401(k) feature.
+
+When a 401(k) Plan Is Appropriate
+Q 1:29   Does it make economic sense for a small business owner to establish or continue a qualified plan?
+A plan design that will maximize the owner's portion of the total plan cost will also maximize the long-term effectiveness of the plan for a small, closely held business. Consider this case study in the following example.
+ 
+Example. An owner of a small company with three employees set up a profit sharing plan years ago, when the maximum tax bracket was 50 percent. Now that tax rates have declined to 33 percent, the owner is wondering whether it makes sense to continue making tax-deductible contributions to the profit sharing plan.
+ 
+The current profit sharing plan calls for employees to receive a pro rata share of the contribution based on their compensation. Last year, the company contributed 20 percent of pay to the plan and paid $3,500 in administrative fees:
+
+
+
+Employee
+Compensation
+Contribution
+Owner
+$220,000
+$44,000
+B
+30,000
+6,000
+C
+20,000
+4,000
+
+$270,000
+$54,000
+
+The total cost of the plan is $57,500 ($54,000 in contributions plus $3,500 in administrative fees), $44,000 of which is credited to the owner of the company.
+If the owner had dissolved the profit sharing plan and taken a bonus of $57,500 instead, a net after-tax amount of $38,525 would have been available, or approximately $5,500 less than the amount that was deferred in the qualified plan for the owner.
+
+Q 1:30   Are 401(k) plans appropriate for unincorporated businesses?
+Yes. Unincorporated businesses may use 401(k) plans as a benefit program for employees. The calculations involved are more difficult, since the compensation of the self-employed individual (either a sole proprietor or partner) is reduced by the contributions made on behalf of common-law employees. Also, the self-employed individual's compensation must be reduced by one half of the Social Security contribution (SECA deduction).
+
+Q 1:31   When is a 401(k) plan appropriate for a sole proprietorship?
+Because the cost and complexity of maintaining a 401(k) plan are typically higher than those of a profit sharing plan, it would make sense for a sole proprietor to maintain a 401(k) plan only if he or she wanted to contribute in excess of the defined contribution plan limits but did not want to have the fixed contribution obligation inherent in maintaining a defined benefit plan. Elective deferrals do not count toward the Code Section 404 deduction limit (25 percent of compensation), and that limit is based on compensation before reduction for elective deferrals, so the deductible limit for a sole proprietor with a 401(k) plan that has a profit sharing feature is higher than the limit for a profit sharing plan alone.
+
+Q 1:32   What are the considerations in designing a 401(k) plan for a partnership?
+Complex rules govern partnerships that adopt 401(k) plans. In fact, the final regulations under Code Section 401(k) require that any plan that directly or indirectly permits a partner to vary the amount of contributions on his or her behalf will be considered a cash or deferred arrangement. The implications for a partnership are quite significant:
+ 
+	1.	The annual contribution for each partner is subject to the 401(k) deferral cap of $17,500 (in 2013).
+	2.	For plan years beginning after December 30, 1997, matching contributions on behalf of each partner are no longer treated as elective deferrals, subject to the 2013 deferral cap of $17,500.
+	3.	Nondiscrimination testing must be performed.
+ 
+Thus, in designing a plan for a partnership, it is critical that the partners decide whether contributions should be variable for each partner. If contributions will be variable, a 401(k) plan is the only design available, with the resulting reduction in total contributions allocable to the partners. See chapter 2 for more information regarding 401(k) plans for partnerships.
+
+Q 1:33   Can a limited liability company sponsor a 401(k) plan?
+Yes. An LLC is a business that operates with the flexibility and informality of a partnership and yet retains the personal liability protection associated with corporation shareholder interests. An LLC is designed to be taxed as a partnership. Members of the LLC (equivalent of partners or shareholders) receive and are taxed on company profits as earned income in the same manner as partners. For 401(k) plan purposes, “members” are treated like partners and nonmembers are treated like partnership employees.
+
+Q 1:34   What are the 401(k) design considerations for a small or professional business?
+Many qualified plans designed for small businesses (fewer than 20 employees) and professional firms (e.g., attorneys, accountants, engineers, physicians) will be top heavy (i.e., more than 60 percent of the benefits of the plan will be attributable to key employees—see chapter 14). The impact of top heaviness on a 401(k) plan may be significant, since top-heavy minimum contributions may be required for non-key employees. Thus, the plan design should take into account the fact that fixed employer contributions ranging from 3 percent to 7.5 percent of pay for non-key employees may be required.
+Beginning in 1997, 401(k) plans have been able to avoid the top-heavy requirements if they qualify as SIMPLE 401(k) plans. A safe harbor 401(k) plan and a Qualified Automatic Contribution Arrangement (QACA) are other design options for plans that are or are likely to be top heavy (see chapter 2).
+
+Multiemployer and Multiple-Employer 401(k) Plans
+The terms of a collective bargaining agreement may call for the establishment or maintenance of a 401(k) plan. If more than one employer is required to contribute to the plan, it is treated as a multiemployer plan. The following section discusses design considerations for multiemployer 401(k) plans.
+Negotiated 401(k) plans are generally started for one of two reasons: as a replacement for a terminating defined benefit plan or as a supplement to an existing plan. The design features may be quite different, depending on the reasons behind the start-up of the plan.
+
+Q 1:35   Why do multiemployer units consider 401(k) plans?
+Multiemployer defined benefit plans lost favor after Congress passed the Multiemployer Pension Plan Amendments Act (MPPAA) in 1980. A major drawback of the defined benefit approach was its withdrawal liability feature: an individual employer attempting to withdraw from a multiemployer defined benefit plan would be assessed a single sum withdrawal charge equal to the individual employer's pro rata share of the unfunded liability. This made withdrawal from an underfunded plan expensive for an employer and discouraged new employers from joining a multiemployer plan.
+Favorable investment performance for many defined benefit plans in the mid-1980s caused a number of plans to become well funded, which encouraged the unions to request benefit increases. However, employers were reluctant to grant increases because they feared potential withdrawal liability. This left the union, the employers, and the membership in a difficult situation. In many cases, this was resolved by terminating the defined benefit plan and replacing it with a defined contribution plan.
+
+Q 1:36   In replacing a defined benefit plan, how is the 401(k) plan structured?
+The replacement plan often is a profit sharing plan with a 401(k) feature attached to it. The primary emphasis is on replacing benefits lost by the termination of the defined benefit plan. Employer contributions are emphasized, and employee elective contributions are intended merely to supplement the retirement benefits provided by the terminated defined benefit plan and the new profit sharing plan.
+
+Q 1:37   How is a supplemental 401(k) plan structured?
+When a multiemployer group institutes a 401(k) plan as a supplement to an existing defined benefit plan, there is much less emphasis on employer contributions. Typically, employers are not interested in making any contributions at all to the 401(k) plan. When employer contributions are made, a common arrangement is that an employer will agree to contribute “x” cents per hour, and this money will be pooled. At the end of the year, the pooled money will be used to match a portion of the deferrals for each contributing employee.
+
+Q 1:38   What design and administration features are unique to a multiemployer 401(k) plan?
+There are a number of unique design and administrative features in a multiemployer 401(k) plan:
+ 
+	1.	Nondiscrimination testing is performed on a planwide basis, making it critical that each employer provide accurate information relative to the plan members who are highly compensated.
+	2.	 The mobility of collectively bargained employees in certain industries, such as construction, makes the administration of the plan quite difficult. In a single-employer environment, these employees are simply considered to have terminated employment. In a multiemployer environment, the employees continue to be eligible and earn vesting credit.
+	3.	Investment options may be designed to allow socially responsible investing; that is, “union only” funds may be an option.
+	4.	The collective bargaining agreement will specify the individual employer as responsible for administrative tasks, such as maintaining employee deferral elections, withholding contributions, and forwarding contributions to the plan trustees.
+	5.	Although delinquencies do not have an impact on an employee's benefit in a defined benefit plan, they are of critical importance in a 401(k) plan. Also, delinquencies are more likely to occur in a multiemployer environment.
+	6.	The handling of start-up costs may be difficult; in some cases, the union may borrow money from the bank to cover start-up costs.
+
+Note. If start-up costs are deducted from trust assets, the rate of return on investments in the first year may be negative or extremely low, creating a negative impression of the 401(k) plan on the participants.
+
+Multiple-Employer Plans
+Multiple-employer plans (MEPs) are plans where a group of employers participate in a single 401(k) plan, usually with the goal of reducing overall plan cost and minimizing fiduciary exposure. The concept of using MEPs has gained popularity in recent years as a way to encourage more small employers to offer their employees a 401(k) plan; however, the rules regarding MEPs are not as well defined as the rules for traditional 401(k) plans.
+
+Q 1:39   How do multiple-employer plans work?
+In a MEP there is a lead employer who generally takes responsibility for administering the plan and acting as the plan’s named fiduciary. Historically, the lead employer has been either a trade association or a professional employee organization (PEO)—a company that allows employers to outsource benefits and other employee management costs by becoming the employer of record for tax purposes. Employers that are members of the trade association or customers of the PEO can then join the MEP as participating employers.
+
+Q 1:40   What are the benefits to participating employers of joining a MEP?
+The key benefits are reductions in administrative costs and reduction in fiduciary liability. A MEP that is considered a single-employer plan (see Q 1:42) will have a single plan document and file a single Form 5500, and the lead employer generally will handle plan administration activities for all participating employers. Also, the lead employer will typically select and monitor the plan’s investments, so that participating employers have limited exposure to fiduciary liability.
+
+Q 1:41   What is an “Open MEP”?
+An open MEP is a MEP in which there is no common bond or preexisting relationship among the participating employers other than sharing the same service providers for the plan.
+
+Q 1:42   What legal concerns arise with Open MEPs?
+Under the Employee Retirement Income Security Act (ERISA), pension benefit plans (which include 401(k) plans) must be established or maintained by an employer or an employee organization, such as a labor union. The term “employer” is defined for this purpose to include any person acting directly as an employer, as well as a group or association acting for an employer in relation to a benefit plan. In determining whether such a group or association exists, the Department of Labor (DOL) considers the following factors:
+ 
+	•	How members of the association are solicited;
+	•	Who is eligible to participate and who actually participates;
+	•	The process by which the association was formed;
+	•	Preexisting relationships among members; and
+	•	Degree of control that participating employers have over the retirement program.
+ 
+The DOL has concluded that Open MEPs in which the only commonality among members is the hiring of a common service provider to administer the MEP are not single-employer sponsored plans under ERISA. [ERISA §§ 3(2), 3(4), 3(5); DOL Adv. Op. 2012-03A; DOL Adv. Op. 2012-04A]
+
+Q 1:43   What is the practical significance of the DOL’s ruling that Open MEPS are not single-employer sponsored plans?
+The key significance of the DOL’s ruling is that each participating employer in an Open MEP must file a separate Form 5500, including a separate accountant’s opinion for large plan filers. It is not clear whether participating employers are required to file amended returns for years prior to 2012 when the status of Open MEPS was not clearly defined.
+While not specifically addressed in the Advisory Opinions, treating each participating plan in an Open MEP as a separate plan may also mean that ERISA’s bonding requirements (see chapter 4) would need to be met separately for each participating plan.
+The 2012 Advisory Opinions did not challenge the tax-qualified status of Open MEPs or the ability to delegate administrative and fiduciary functions to a common service provider, although each participating employer retains fiduciary responsibility for the selection and monitoring of the service provider.
+The bottom line is that although the 2012 Advisory Opinions eliminated a key advantage for participating employers in Open MEPS (i.e., the avoidance of filing a separate Form 5500), there are still administrative efficiencies and fiduciary risk management benefits available to employers that participate in an Open MEP.
+
+Market for and Utilization of 401(k) Plans
+This section deals with the use of 401(k) plans as employee benefit plans by large and small employers throughout the country.
+
+Q 1:44   How many 401(k) plans and participants are there in the United States?
+According to the 2013 SPARK Marketplace Update, there are now more than 531,000 401(k) plans in the United States.
+
+Q 1:45   What are average participation rates in 401(k) plans?
+According to a survey by AON Hewitt Associates, Trends and Experiences in Defined Contribution Plans: 2011, participation rates in 401(k) plans have hovered around the mid-seventies since 2001, with average participation rates of 75 percent in 2001 and 78 percent in 2007. There was a slight increase in survey results in 2009, with average participation rates at 81 percent, which may have been due in part to increased use of automatic enrollment plans (see chapter 2).
+
+Q 1:46   Does the fact that a 401(k) plan offers a matching employer contribution noticeably affect 401(k) participation?
+Yes, although the most significant difference occurs between having no match at all versus having some match. Changes in the level of matching contributions do not tend to significantly impact participant behavior. According to the 2011 AON Hewitt survey, the most common level of match used is $0.50 per $1.00 of salary deferral contributions to a maximum of 6 percent of compensation.
+
+Future of 401(k) Plans
+What does the future hold for 401(k) plans? Will they continue to be a popular employee benefit? Will they eventually replace defined benefit plans as the primary employer-sponsored retirement plan vehicle? Will 401(k) plans become available to all employees? The market downturn that began in 2008 had a significant impact on 401(k) plan account balances. Those losses, particularly when combined with the declining ability of either defined benefit plans or Social Security to meet the retirement income needs of employees, have prompted a high level of scrutiny on the value of 401(k) plans. Hearings have been held in Congress and many proposals have been submitted on how to improve savings in 401(k) plans and/or add new retirement savings vehicles to enhance our country's readiness for retirement. It is impossible to know what the outcome of the various proposals will be or how they will impact 401(k) plans. However, by looking at various trends—legislative, economic, and demographic—it is possible to make some reasonable guesses about 401(k) plans in the future.
+
+Q 1:47   How are demographic trends affecting 401(k) plans?
+The workforce of today is vastly different from that of earlier decades. Some of the demographic trends that affect 401(k) plans are:
+ 
+	1.	More women, minorities, and foreign-born nationals in the workforce. As the workforce becomes more diversified, there is greater need for flexible schedules and benefits.
+	2.	Aging workforce. The workforce is aging, and with increased age comes an increased cost in benefits, particularly in health and defined benefit plans. The increased life expectancy of the average retiree has staggering implications in terms of future health care costs.
+	3.	More participant involvement in benefit plans. The workforce of today wants more choice, and a greater percentage than ever feel that they must bear a portion of the responsibility for providing retirement benefits for themselves. Few employees expect Social Security to be a major source of their retirement income.
+
+Q 1:48   What economic trends are affecting 401(k) plans?
+The economic trends that affect 401(k) plans include the following:
+ 
+	1.	Health care costs and reform. The explosion in health care costs and the structural changes in the health care services industry are forcing many employers to reevaluate their employee benefits. There is a great push to control costs and increase the bottom line while at the same time increasing productivity. Any means of leveraging employee benefits for financial gain will be a possibility for financially strapped companies: cost sharing by employees, reduction of benefits, and consolidation of retirement plans.
+	2.	Increased utilization of asset allocation funds. According to the AON Hewitt survey, Trends and Experiences in Defined Contribution Plans: 2011 (see Qs 1:41–1:44), the number of plans offering some type of asset allocation or premixed fund option has grown from 19 percent in 1997 to 88 percent in 2011. This trend is likely to continue with the fiduciary protection available to plan fiduciaries using funds in this category as their default fund option (see chapter 7). Increased exposure to equities and use of age-based formulas to determine asset allocation may increase account balances of 401(k) plan participants over time.
+	3.	Low retirement savings rates. In spite of the growth and popularity of 401(k) plans and the efforts of plan sponsors and plan service providers in educating employees about the need to save, a stubborn 25 percent or so of eligible employees still do not participate, and the savings rate for those who do is nowhere near what is needed to generate sufficient income replacement at retirement. This reality has generated a great deal of interest in automatic enrollment and automatic deferral increase plans, whereby employees would end up saving unless they proactively took steps to avoid contributing to a 401(k) plan. This type of plan design will become more prevalent in the future.
+	4.	Increased access to investment options providing guaranteed lifetime income. Traditionally, 401(k) plans have been viewed more as a savings account than as a source for providing monthly income that is guaranteed for life. However, as participants, plan sponsors, and the government have become more concerned with retirement income adequacy, there has been a growing interest in making guaranteed lifetime income available though 401(k) plan investments. The DOL and the Treasury Department issued a Request for Information in 2010 seeking to understand how these types of investment products might be better integrated into 401(k) plans and/or made available for distributions from 401(k) plans. In 2012, the Treasury Department issued several pieces of guidance designed to increase the availability and utilization of guaranteed income solutions by defined contribution plan participants. There has also been significant product development by the industry to come up with solutions that provide guaranteed income for life without giving up the flexibility and control most participants are accustomed to having over their account balance in a 401(k) plan. Continued development of regulatory initiatives as well as product enhancement in this area may be expected.
+
+Q 1:49   What are the prospects for 401(k) plans?
+With the publicity surrounding 401(k) plans and increased interest in sharing the responsibility for providing retirement benefits, employees of companies who do not sponsor a 401(k) plan have been clamoring for the addition of this plan to the benefits package. To the extent that the maximum 401(k) deferrals remain greater than IRA contributions, middle- and high-income employees will prefer 401(k) plans. Also, the relative availability of funds in a 401(k) plan through hardship withdrawals and loans makes the 401(k) plan an attractive alternative to an IRA.
+Congress recognized the need to simplify the retirement plan rules and to some extent did so in the Small Business Job Protection Act of 1996 (SBJPA) and in the Economic Growth and Tax Relief Reconciliation Act of 2001 (EGTRRA). With simplicity will come less flexibility. The availability of special tax treatment on lump-sum distributions will disappear entirely.
+The widespread popularity of 401(k) plans has greatly increased the interest of financial institutions in capturing these benefit dollars. The competition for dollars will increase, driving down the cost of administration, as many financial institutions subsidize administrative costs in their full service packages. Larger companies will try to outsource their benefits administration as they critically evaluate the dollars spent for benefits.
+Two other employee benefit programs, health insurance and defined benefit plans, will be competing with 401(k) plans for employers' benefit dollars. Health care costs for active employees and retirees will be steadily rising. As the baby boomer generation matures, the demand for defined benefit plans may start to rise and a resurgence of defined benefit plans could occur, for both the small and medium-sized employer.
+
+Legislative and Regulatory Developments Affecting 401(k) Plans
+The trend of overall pension policy since the 1990s has been to expand the availability of retirement plans to the workforce. Pension policy, in general, is that the federal government should not subsidize pensions for highly paid employees, and that if highly paid employees are covered, then a fair number of lower-paid employees must also be covered. The Tax Reform Act of 1986 (TRA '86) played a large role by tightening nondiscrimination standards, thus requiring more lower-paid employees to be benefited by employer-sponsored plans. When faster vesting is required, more employees become eligible for retirement plan benefits and expanded coverage is achieved.
+Congress has done little to encourage the continuation of defined benefit plans over the last decade. Increased complexity in the form of the Omnibus Budget Reconciliation Acts of 1989 and 1990 (OBRA '89 and OBRA '90) has made plans more costly to administer. The increase in the reversion tax from 0 percent to 15 percent to its present maximum of 50 percent has made it more difficult to terminate defined benefit plans. The increase in the Pension Benefit Guaranty Corporation (PBGC) premiums from $1 per participant after the passage of ERISA in 1974 to an unlimited amount per participant has greatly reduced the attractiveness of these plans. For underfunded defined benefit plans, potential additional premiums have caused many plan sponsors to cease future accruals and look to defined contribution plans as a source of future retirement funds for their employees. Though Congress is currently looking at ways to simplify defined benefit plans, the cost structure of these plans is likely to continue to limit their broad use by employers.
+The Pension Protection Act of 2006 continues the trend of encouraging the use of 401(k) plans and makes it potentially more expensive and difficult for an employer to sponsor a defined benefit plan.
+
+The Economic Growth and Tax Relief Reconciliation Act of 2001
+EGTRRA [Pub. L. No. 107-16, 115 Stat. 38] was signed into law by President George W. Bush on June 7, 2001. The law contains significant changes affecting 401(k) plans, most of which are designed to expand the use and value of 401(k) plans and to simplify their administration. It also contains many changes to the rules affecting IRAs and changes to the federal estate tax rules, which create planning opportunities.
+The enactment of EGTRRA highlighted two legislative trends. One is to make defined contribution plans, including 401(k) plans, more attractive to employers and a potentially more valuable source of retirement savings to employees. The other is to blend the characteristics of individual retirement arrangements (IRAs) and employer-sponsored plans to allow employees maximum flexibility and opportunity to save for retirement.
+
+Q 1:50   What are the key areas of change to 401(k) plans resulting from EGTRRA?
+The provisions of EGTRRA affect individual dollar limits for employee contributions to a plan, deduction limits for employer contributions to a plan, the rules governing rollovers, IRA rules, rules designed to encourage use of 401(k) plans by small businesses, and rules simplifying plan administration.
+
+Q 1:51   How has EGTRRA changed plan contribution and benefit limits?
+Plan contribution and benefit limits are changed as follows:
+ 
+	•	The elective deferral limit for 401(k) plans, 403(b) plans, and 457 plans was raised from $10,500 in 2001 to $11,000 in 2002, to $13,000 in 2004, $14,000 in 2005, and $15,000 in 2006. Thereafter it is adjusted for cost-of-living increases in $500 increments.
+	•	The Section 415 annual additions dollar limit for 401(k) and other defined contribution plans was raised from $35,000 in 2001 to $40,000 in 2002, and to $41,000 in 2004. It will be adjusted for cost-of-living increases in $1,000 increments thereafter. The alternate limit of 25 percent of pay is increased to 100 percent of pay.
+	•	The SIMPLE plan limit increased from $6,500 in 2001 to $7,000 in 2002, to $9,000 in 2004, and to $10,000 in 2005. It will be adjusted for cost-of-living increases in $500 increments thereafter.
+	•	The amount of compensation that can be taken into account when determining an employee's contribution limit was increased from $170,000 in 2001 to $200,000 in 2002, and is to be adjusted for cost-of-living increases in $500 increments thereafter.
+	•	A special catch-up rule allows people age 50 or older to make additional contributions to a non-SIMPLE 401(k) plan. The catch-up contribution amount went up from $1,000 in 2002 in $1,000 increments through 2006, and is to be adjusted for cost-of-living increases in $500 increments thereafter. These additional contributions are not subject to limitations on contributions such as the ADP test and Code Section 415. However, if matching contributions are made with respect to these catch-up contributions, the match amount would be included in the actual contribution percentage (ACP) test. The catch-up rule in SIMPLE plans allowed for additional contributions of $500 in 2002, increasing in $500 increments until 2006, with adjustment for cost-of-living increases in $500 increments thereafter.
+	•	The deferral limits between 401(k) plans and governmental 457 plans were no longer required to be coordinated beginning in 2002.
+	•	The limit on the annual benefit payable from a defined benefit plan increased from $140,000 in 2001 to $160,000 in 2002 and is to be adjusted for cost-of-living increases in $5,000 increments thereafter.
+ 
+See chapter 9 for a more in-depth discussion of contribution limits applicable to 401(k) plans.
+
+Q 1:52   How were employers' deduction limits for plan contributions changed by EGTRRA?
+Employers' deduction limits for plan contributions were changed as follows:
+ 
+	•	The 15 percent of pay limit on deductibility of employer contributions to a defined contribution plan increased to 25 percent of pay in 2002.
+	•	Beginning with an employer's 2002 taxable year, the 25 percent of pay limit on deductibility is not reduced by any salary deferral contributions made by employees, and participant compensation used to calculate the 25 percent of pay limit is also not reduced by any elective contributions (e.g., salary deferral, cafeteria plans, etc.).
+	•	Beginning with an employer's 2002 tax year, the employer may take a deduction for dividends reinvested in an ESOP pursuant to a participant's election.
+	•	Deductions for contributions to a defined benefit plan are changed in two significant ways. The first relates to an employer's ability to deduct contributions to a defined benefit plan that is considered to be “fully funded.” Under prior law, no deduction was available for contributions that exceeded 160 percent of a plan's current liability. With EGTRRA, the contribution limit increased to 165 percent in 2002 and 170 percent in 2003 before being eliminated entirely thereafter, such that the 2003 limit will become the excess of the plan's accrued liability over the plan's asset value. For PBGC covered plans, EGTRRA also eliminates the under-100-participant restriction for making contributions up to the unfunded current liability and, in the case of a terminating plan, the amount necessary to make the plan sufficient.
+ 
+See chapter 9 for a more in-depth discussion of employer deduction limits.
+
+Q 1:53   How were the rollover rules changed by EGTRRA?
+Rollover rules changed as follows:
+ 
+	•	Prior to EGTRRA, a rollover could occur from an IRA to a plan only if all the money in the IRA came from a qualified plan. There are also restrictions today on rollovers between plans qualified under Code Sections 401(a), 403(b), and 457. Effective for distributions after December 31, 2001, rollovers can occur between and among qualified plans under Code Section 401(a) (including 401(k) plans), governmental 457 plans, 403(b) annuity plans, and IRAs with individual contributions in them other than Roth IRAs.
+	•	Prior to EGTRRA, any portion of a distribution that was nontaxable could not be rolled over. For distributions after December 31, 2001, after-tax amounts can be rolled from a qualified retirement plan into either an IRA or to a defined contribution plan that provides for separate accounting of the after-tax amounts.
+	•	Prior to EGTRRA, the spouse of a deceased participant was entitled only to roll the death benefit into an IRA. For benefits distributed after December 31, 2001, spouses have the same rollover options as participants.
+	•	EGTRRA created a hardship exception with respect to the 60-day limit on rollovers of cash distributions.
+	•	Involuntary cash-outs in excess of $1,000 are now required to be rolled into an IRA rather than paid in cash. The effective date for this change will be determined after the DOL has prescribed safe harbor investments for this purpose.
+	•	Effective for distributions after December 31, 2001, no portion of a hardship withdrawal, including taxable hardship withdrawals from sources other than salary deferrals, can be rolled over.
+ 
+See chapter 16 for a more in-depth discussion of the rollover rules.
+
+Q 1:54   How did EGTRRA change the rules for IRAs?
+The rules for IRAs are changed as follows:
+ 
+	•	The IRA contribution limit is increased from $2,000 in 2001 to $3,000 in 2002 through 2004, to $4,000 in 2005 through 2007, to $5,000 in 2008 and thereafter for cost of living in $500 increments. These limits apply to both Roth and traditional IRA contributions.
+	•	Beginning in 2002, individuals age 50 or older can make an additional IRA contribution of $500 for each year between 2002 and 2005 and $1,000 thereafter.
+	•	Beginning in 2006, qualified plans can be amended to allow for “Roth contributions” (i.e., after-tax contributions for which no tax on the principal or earnings is due at the time of distribution). To avoid tax on the distribution, it must be made after five years and age 59½ or because of death or disability.
+ 
+See chapter 22 for a more in-depth discussion of IRAs.
+
+Q 1:55   How did EGTRRA encourage the use of qualified plans by small employers?
+EGTRRA encouraged the use of qualified plans by small employers as follows:
+ 
+	•	Beginning in 2002, the rule that participant loans are not available for partners and S Corporation shareholders is repealed.
+	•	EGTRRA provides for a tax credit for the start-up costs of a retirement plan for small businesses. Employers with no more than 100 employees and with at least one non-highly compensated employee (NHCE) participating in the plan are allowed a credit of up to $500 for the first three years of the plan.
+	•	Small businesses (as defined above) do not need to pay the IRS user fee for determination letter requests made after December 31, 2001, and within the first five years the plan is established.
+
+Q 1:56   How did EGTRRA simplify the rules for plan administration?
+EGTRRA simplified the rules for plan administration as follows:
+ 
+	•	It revised the rules for top-heavy plans effective in 2002, including eliminating the five-year look-back rule for most purposes (see chapter 14).
+	•	It eliminated the “same desk rule” restricting distributions from 401(k) plans in certain corporate transactions for distributions occurring after December 31, 2001 (see chapter 21).
+	•	It repealed the multiple-use test for 401(k) contributions beginning in 2002 (see chapter 13).
+	•	The rule requiring a 401(k) plan to suspend elective contributions for 12 months following a hardship withdrawal under the safe harbor rules was changed to reduce that period to 6 months beginning in 2002 (see chapter 15).
+	•	Matching contributions in all 401(k) plans, regardless of whether they are top heavy, became subject to the same vesting rules (formerly the top-heavy rules) (see chapters 2 and 14).
+
+Q 1:57   What was unique about the effective dates for EGTRRA?
+The provisions of EGTRRA were scheduled to expire for years beginning after December 31, 2010, unless new legislation was passed extending the law. The Pension Protection Act of 2006, which was signed into law on August 17, 2006, made the provisions of EGTRRA affecting retirement plans permanent. (See Qs 1:58–1:64.)
+
+The Pension Protection Act of 2006
+The Pension Protection Act of 2006 [Pub. L. No. 109-280, 120 Stat. 780] (PPA) was signed into law by President George W. Bush on August 17, 2006. Well over 900 pages long, the PPA contains many changes for both defined benefit plans and defined contribution plans. One of the most important changes is the permanent extension of the changes to retirement plans and individual retirement arrangements (IRAs) made by EGTRRA in 2001 (see Qs 1:48–1:55). In addition, the PPA contains many changes impacting 401(k) plans. The highlights are discussed in this section (Qs 1:58–1:62).
+
+Q 1:58   What changes did the PPA make to automatic enrollment plans?
+The PPA created numerous new definitions, requirements, and opportunities for automatic enrollment plans (i.e., plans in which employees, unless they opt out automatically, become enrolled at deferral rates specified by the plans). The principal changes include:
+ 
+	•	ERISA preemption of state wage garnishment laws [ERISA § 514(e)]
+	•	A new nondiscrimination testing safe-harbor available only to automatic enrollment plans [I.R.C. § 401(k)(13)];
+	•	A requirement that the DOL define a category of default funds that can qualify for ERISA Section 404(c) protection [ERISA § 404(c)(5)] (see chapter 7);
+	•	An extension of time for returning excess ACP and ADP contributions [I.R.C. § 4979(f)];
+	•	The option to return salary deferral contributions within 90 days of the first deferral payroll date if so requested by the participant [I.R.C. § 414(w)]; and
+	•	New notice requirements for participants [I.R.C. § 414(w)(4)].
+ 
+(See chapter 2 for further discussion of these changes and their effective dates.)
+
+Q 1:59   What changes did the PPA make with respect to ERISA's fiduciary and prohibited transaction rules?
+The changes made by the PPA to ERISA's fiduciary and prohibited transaction rules include:
+ 
+	•	The creation of “Eligible Investment Advice Arrangements” (EIAAs), arrangements that enable participants to receive fiduciary-level investment advice, that allow financial advisors to be paid from the funds for which they are providing advice, and that relieve plan fiduciaries of liability for participant-level investment results [ERISA § 408(g)];
+	•	The addition of statutory exemptions covering block trades, electronic trading, transactions with non-fiduciary service providers, cross trading, foreign exchange transactions, and securities or commodities transactions corrected within 14 days [ERISA § 408(b)(15-20)];
+	•	The expansion of ERISA Section 404(c) protection to certain fund mapping transactions [ERISA § 404(c)(1)]; and
+	•	A mandate that the DOL define, by regulation, default funds qualifying for relief under ERISA Section 404(c) when used in automatic enrollment plans [ERISA § 404(c)(5)].
+ 
+See chapters 5 and 7 for further discussion of these changes and their effective dates.
+
+Q 1:60   What changes did the PPA make to the rules concerning plan distributions or other withdrawals?
+The PPA made a number of changes concerning distributions and other withdrawals from plans, including:
+ 
+	•	Allowing a nonspouse beneficiary to roll over a plan distribution into an “inherited” IRA [I.R.C. § 402(c)(11)];
+	•	Allowing rollovers directly from pre-tax 401(k), 403(b), or 457 accounts into Roth IRAs (provided the rollovers satisfy income limit and other rules) [I.R.C. § 408A(e)];
+	•	Allowing rollover of after-tax accounts between different types of qualified plans as long as certain accounting requirements are satisfied [PPA § 824];
+	•	Allowing hardship distributions to be made on account of financial hardship impacting the beneficiary of a participant [PPA § 826];
+	•	Expanding options for distributions to reservists [I.R.C. § 72(t)]; and
+	•	Requiring that plans subject to the joint and survivor annuity rules offer a second survivor annuity option [I.R.C. § 417].
+ 
+See chapters 15, 16, and 17 for further discussion of these changes and their effective dates.
+
+Q 1:61   What changes did the PPA make to ERISA's notice, reporting, and disclosure requirements?
+The PPA made many changes to these requirements, including:
+ 
+	•	New rules for the timing and content of participant statements, including a requirement that participants in participant-directed plans receive quarterly statements [ERISA § 105(a)];
+	•	Changes to the distribution notice requirements, extending the time frame from 30 to 90 days, to 30 to 180 days, and requiring the inclusion of certain information that might impact a participant's decision to defer distributions [I.R.C. § 417(a)(6); ERISA § 205(c)(7)(A)];
+	•	New notice requirements for automatic enrollment plans, certain plans offering employer stock as an investment option, plans using a Section 404(c) protected default fund, plans using the new automatic enrollment safe harbor, plans relying on Section 404(c) protection during fund mapping, and plans using the new prohibited transaction exemption for Eligible Investment Advice Arrangements;
+	•	A new requirement for the DOL and plan sponsors to display certain Form 5500 information electronically [ERISA § 104(b)(5)];
+	•	Elimination of the need for non-ERISA plans to provide blackout notices [ERISA § 101(i)(8)(B)];
+	•	Raising the plan asset limit for Form 5500-EZ filing to $250,000 [PPA § 1103]; and
+	•	Requesting the DOL to simplify reporting for plans with 25 or fewer participants [PPA § 1103].
+ 
+See chapters 8 and 19 for further discussion of these changes and their effective dates.
+
+Q 1:62   What changes did the PPA make to plans offering employer securities as an investment option?
+A number of changes effected by the PPA are primarily designed to protect participants whose 401(k) accounts are overly invested in employer securities from having their retirement savings decimated. These changes include:
+ 
+	•	Required diversification rights, with different requirements for employee and employer contributions, and including notice of those rights [I.R.C. § 401(a)(35)];
+	•	An increase in the ERISA bond limit for plans holding employer securities [ERISA § 412(a)]; and
+	•	The availability of catch-up IRA contributions (subject to certain conditions and restrictions) in the event the employer becomes bankrupt or is indicted [I.R.C. § 219(b)(5)].
+ 
+See chapter 6 for further discussion of these changes and their effective dates.
+
+Q 1:63   What other changes did the PPA make that significantly impact 401(k) plans?
+Other changes made by the PPA that impact 401(k) plans include:
+ 
+	•	Shortened maximum vesting periods for all employer contributions, from 5-year cliff or 7-year graded to 3-year cliff or 6-year graded [I.R.C. § 411(a)(2)] (see chapter 2);
+	•	Creation of a combined defined benefit/401(k) plan design (see chapter 2);
+	•	An enhanced Saver's Credit [I.R.C. § 25B] (see chapters 2 and 8);
+	•	Elimination of the need to calculate gap-period earnings when distributing excess contributions due to failed actual deferral percentage (ADP) tests or actual contribution percentage (ACP) tests for plan years beginning January 1, 2008, or later [I.R.C. §§ 4979(f), 401(k)(8), 401(m)(6)(A)] (see chapter 18);
+	•	Expansion of the rules regarding qualified domestic relations orders (QDROs) in situations where multiple orders are received [PPA § 1001] (see chapter 17);
+	•	Amended contribution deduction limits when an employer maintains both a defined contribution plan and a defined benefit plan [I.R.C. § 404(a)(7)(C)] (see chapter 9).
+
+Q 1:64   What are some changes made by the PPA that impact plans other than 401(k) plans?
+Changes made by the PPA that impact plans other than 401(k) plans include:
+ 
+	•	Establishment of a simple age discrimination standard for defined benefit plans;
+	•	Elimination of some of the legal uncertainties surrounding cash balance or other hybrid plans;
+	•	Clarification of the status of Indian tribal plans as governmental plans; and
+	•	Exemption of all government plans from nondiscrimination and minimum participation rules.
+ 
+These changes, along with other changes impacting retirement plans other than 401(k) plans, and effective dates for these changes, are discussed in chapter 22.
+
+The Uniformed Services Employment and Reemployment Rights Act of 1994
+Signed into law in 1994, the Uniformed Services Employment and Reemployment Rights Act (USERRA) [38 U.S.C. §§ 4301–4333] establishes certain rights and benefits for employees and duties for employers with regard to the employment, reemployment, and retention in employment of employees who serve or have served in the uniformed services. The key provisions of USERRA as they affect 401(k) plans are discussed in this section. USERRA is also discussed in chapters 9 and 16.
+
+Q 1:65   What action must an employee take in order to secure reemployment rights under USERRA?
+Depending on the length of the employee's period of service, the employee is generally entitled to report back to work or apply for reemployment from 1 to 90 days following the end of military service. Upon reemployment, the employee will not be considered to have had a break in service by reason of his or her absence, and the employee's military service will be treated as service for purposes of vesting as well as for meeting any hours worked requirement to accrue a right to share in any employer contribution. [20 C.F.R. § 1002.259]
+
+Q 1:66   Does the rehired employee have the opportunity to make elective deferral contributions with respect to the period of military service?
+Yes, the rehired employee must be permitted to make additional elective deferrals up to the maximum amount that he or she could have made during the period of military service had the individual continued to be employed by the employer. The employee has a period of time equal to three times his or her period of military service to make the additional elective deferrals, but in no event can that period of time end later than five years after the employee's date of reemployment. [I.R.C. § 414(u)(2)]
+
+Q 1:67   What compensation is taken into account in determining the rehired employee's additional elective deferrals?
+In determining the rehired employee's compensation, the plan will use the rate of pay that the employee would have received but for the period of military service. If the rate of pay he or she would have received is not reasonably certain, the plan will use the average rate of compensation during the 12-month period prior to the period of military service. [I.R.C. § 414(u)(7)]
+
+Q 1:68   What contributions must the employer make?
+The employer is required to make all employer contributions the rehired employee would have been entitled to receive had his or her employment not been interrupted by military service and the contributions would be based on compensation as described above (see Q 1:67). In general, the employer must fund those contributions no later than 90 days after the date of reemployment or the date employer contributions are normally due for the year in which the service is performed. The employer is not required to make matching contributions unless the employee elects to make additional elective deferrals. [20 C.F.R. § 1002.262]
+
+Q 1:69   Must employee and employer contributions be adjusted for earnings?
+No, contributions are not required to be adjusted for earnings. In addition, the employer is not required to adjust the amount it contributes on behalf of the rehired employee on account of any forfeitures that may have been allocated during the employee's period of military service. [I.R.C. § 414(u)(3)]
+
+Q 1:70   How are employee and employer contributions treated for testing purposes?
+Employer and employee contributions are not taken into account for testing purposes for the plan year in which the amounts are actually contributed to the plan. Rather, they are taken into account for the years to which they are attributable; however, any additional elective deferrals and matching contributions made for those years will not cause the plan to fail the actual deferral percentage and actual contribution percentage tests (see chapter 13). [I.R.C. § 414(u)(1)]
+
+The Heroes Earnings and Assistance Relief Tax (HEART) Act of 2008
+The Heroes Earnings Assistance and Relief Tax (HEART) Act [Pub. L. No. 110-245, 122 Stat. 1624] was signed into law by President George W. Bush on June 17, 2008. The HEART Act made a number of changes that impact both retirement and welfare plan benefits available to military personnel. The key provisions that impact 401(k) plans are discussed in this section. Plan amendments reflecting HEART provisions were required to be made by the last day of the plan year beginning on or after January 1, 2010.
+
+Q 1:71   How did the HEART Act change the rules regarding differential wage payments?
+Differential wage payments are amounts employers voluntarily elect to pay to make up some or all of the difference between an employee's military pay and what they would have received had they not been called to active duty. Under the HEART Act, differential wage payments are treated as W-2 compensation, and the recipient of the payments is treated as being actively employed for most plan purposes (e.g., the ability to make 401(k) deferrals). The IRS issued guidance in 2010 on how differential wage payments should be treated for various purposes. Differential wage payments are counted for purposes of applying the annual additions limit under Code Section 415(c)(3) but need not be counted for purposes of determining contributions and benefits in a plan and can be excluded from the plan's definition of compensation without causing the plan to fall out of a safe harbor definition of compensation. [I.R.C. § 414(u)(12)(A); IRS Notice 2010-15, Qs 9 &10, 17, 2010-6 I.R.B. 390]
+
+Q 1:72   How does the HEART Act impact the qualified reservist distribution rules?
+The PPA created a rule allowing reservists called to active duty between September 11, 2001, and December 31, 2007, for a period of 180 days or longer to take a distribution from their 401(k) plan without being subject to the 10 percent early withdrawal penalty tax that applies to distributions made prior to age 59½. For a period of up to two years after returning from active duty, an employee may deposit any amounts distributed under this rule into an IRA without being subject to IRA limits. The HEART Act makes the exemption for qualified reservist distributions permanent. See chapter 16 for more details.
+The HEART Act also gives plans the option of allowing persons who are on leave for qualified military service lasting 30 days or more to be treated as having a deemed severance of employment for purposes of the entitlement to receive a distribution from their salary deferral account. An individual who takes a distribution pursuant to this provision is prohibited from making elective deferral contributions for six months following the date of distribution. These deemed severance distributions are considered eligible rollover distributions unless an exception other than the “hardship” exception applies. [I.R.C. § 414(u)(12)(B); IRS Notice 2010-15, Qs 11–16, 2010-6 I.R.B. 390]
+
+Q 1:73   How does the HEART Act change the rules regarding death and disability benefits available to military personnel and their beneficiaries?
+Under the HEART Act, plans are required to treat participants who die while performing qualified military service on or after January 1, 2007, as if they had become re-employed on the day prior to their death. This rule allows the deceased participants' beneficiaries to take advantage of any additional benefits, such as accelerated vesting or incidental death benefits, that are available to participants who die while actively employed. Guidance issued by the IRS in 2010 clarified that when determining entitlement to any death benefits as referenced above, the period of the deceased participant's qualified military service is treated as service with the employer for vesting purposes. The 2010 guidance also clarified that if a participant would not have been entitled to reemployment rights if he or she had returned to employment immediately before death, the additional death benefits available under the HEART Act would not be available to the participant's beneficiaries. [I.R.C. § 401(a)(37); IRS Notice 2010-15, Qs 1–4, 2010-6 I.R.B. 390]
+The HEART Act also permits plans to credit participants who die or become disabled while performing qualified military service to be credited with their period of military service for purposes of determining benefit accruals. The participant is treated as though he or she had returned to work on the day before his or death or disability and separated from service due to death or disability the next day. The employer would then be allowed to make contributions on behalf of the individual. The amount of any contributions made would be determined based on the employee's actual contributions during the 12-month period immediately preceding his or her period of qualified military service. For example, if an employee whose average deferral had been $200 per month for the requisite period dies after seven months of active duty, and the plan provides a 50 percent match, the employee would receive an additional $350 in matching contributions. In the case of a disabled participant who returns to service and makes elective deferral contributions with respect to periods of military service, plans have the option of using amounts deferred on account of the period of military service as the basis for determining the amount of employer contributions to the participant's account rather than amounts deferred during the 12- month period preceding military service.
+This provision may be added to a plan as of any date on or after January 1, 2007, and must be applied in a nondiscriminatory fashion. Applying vesting credit during the period of military service is permitted, but not required, for this purpose. [I.R.C. § 414(u)(9); IRS Notice 2010-15, Qs 5–8, 2010-6 I.R.B. 390]
+
+The Worker, Retiree, and Employer Recovery Act of 2008
+The Worker, Retiree, and Employer Recovery Act of 2008 [Pub. L. No. 110-455] (WRERA) was signed into law by President Bush on December 23, 2008. The WRERA includes technical corrections to the Pension Protection Act of 2006 (PPA), as well as provisions designed to provide economic relief to both plan sponsors and plan participants in response to the economic downturn.
+
+Q 1:74   What are the technical corrections to the Pension Protection Act of 2006 included in the WRERA?
+The WRERA contained technical corrections to provisions of the PPA that impact 401(k) plans. The key changes are as follows:
+Changes to Rollover Rules. The PPA created an option for plans to allow nonspousal beneficiaries to roll their distribution into an inherited IRA. The WRERA requires plans to offer this option for plan years starting on January 1, 2010 or later. The WRERA also provides some clarifications on rolling a Roth account from a qualified plan into a Roth IRA. (See chapter 16.)
+QDIA Not Required for 90-Day Permissible Withdrawals. The PPA created new rules for automatic contribution arrangements (ACAs), including the ability for participants to have defaulted contributions returned if requested within 90 days. In order to include this permissible withdrawal feature, a plan had to meet the requirements of an eligible automatic contribution arrangement (EACA), which includes a requirement to use a qualified default investment alternative (QDIA) as the plan default fund. The WRERA eliminated the requirement that a QDIA must be used in plans incorporating the 90-day permissible withdrawal feature. The WRERA also extended the rule to SARSEPs and SIMPLE IRAs and clarified that permissible withdrawals can be disregarded in counting the salary deferral limit under Code Section 402(g). (See chapter 2.)
+No Distribution of Gap-Period Earnings on Excess Deferrals. Gap-period earnings are earnings occurring between the end of a plan year for which a corrective distribution is being made and the date of actual distribution. The PPA eliminated the requirement to include gap-period earnings on distributions of excess contributions and excess aggregate contributions. The WRERA extended this relief to distributions of excess deferrals effective for distributions related to plan years starting January 1, 2008 or later. (See chapter 9.)
+Synchronization of Definition of a One-Participant Plan. The PPA excluded one-participant plans from certain notice requirements, such as employer stock diversification and blackout notices. The WRERA clarified that the DOL definition of a one-participant plan applies for this purpose. (See chapter 19.)
+For rules on when plan documents must be amended for the WRERA, see chapter 3.
+
+Q 1:75   What new rules in the WRERA are designed to provide economic relief to 401(k) plan sponsors and participants?
+The WRERA contains several provisions designed to provide economic relief to both plan sponsors and participants. Many of those provisions related to funding requirements for defined benefit plans. A key provision impacting 401(k) plans was the suspension of required minimum distributions (RMDs) or “70 distributions” that otherwise were due to be paid for 2009. Participants whose required beginning date (RBD) occurred in 2008 were still required to take their first payment by April 1, 2009. Payments that would have been RMDs but for the waiver may be eligible for rollover treatment if they otherwise qualify for rollover. (See chapter 16.)
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010
+The Dodd-Frank Wall Street Reform and Consumer Protection Act [Pub. L. No. 111-203] (Dodd-Frank Act) was signed into law by President Obama on July 21, 2010. The text of the Dodd-Frank Act contains far-reaching changes that affect many aspects of the financial markets. Its impact on 401(k) plans is not entirely clear and may not be apparent until the regulatory agencies complete their work of interpreting its various provisions.
+
+Q 1:76   What impact will the Dodd-Frank Act have on 401(k) plans?
+There are many provisions of the Dodd-Frank Act that could impact 401(k) plans, but until further guidance is issued by the regulatory agencies charged with interpreting and implementing the Act, it is too soon to tell what that impact might be. Some concerns that have been raised are:
+ 
+	•	Whether the newly created Consumer Financial Protection Agency will exercise any jurisdiction over service providers or activities in the 401(k) marketplace.
+	•	Whether plans that use swaps or other derivatives as a component of any plan investment will be subject to additional requirements that may increase the cost and decrease the efficiency of these investments.
+	•	Whether stable value funds will be characterized as using swaps and therefore are subject to new requirements. They will not be treated as such initially, pending a review by the Securities and Exchange Commission (SEC) and the Commodities Futures Trading Commission (CFTC).
+	•	Whether brokers will be held to the same fiduciary standard as advisors. The SEC is reviewing this issue.
+ 
+The SEC released a report recommending that a uniform standard of care be implemented. (See Q 1:81 for further information on this report.)
+Some guidance was provided in final rules issued by the Commodity Futures Trading Commission (CFTC) on business conduct standards for SWAP dealers, but many questions remain outstanding.
+
+The American Taxpayer Relief Act of 2012
+The American Taxpayer Relief Act of 2012 (ACT) [Pub. L. No. 112–240, 126 Stat. 2313] was signed in to law by President Obama on January 2, 2013. ACT contained a number of provisions intended to increase tax revenues, including an expansion of Roth in-plan conversions.
+
+Q 1:77   How did ACT expand in-plan Roth conversion opportunities?
+ACT allows participants who have a pretax retirement account in a 401(k), 403(b), or governmental 457(b) plan to convert some of all of their pretax account to a Roth account inside the plan. The plan document would need to permit both Roth contribution accounts and the ability to make these in-plan conversions, but the participant would not need to be eligible for a distribution of the converted amounts. This is an expansion of the prior rule, which allowed for in-plan conversions only of amounts otherwise available for distribution under the terms of the plan. Since the converted amounts would not be eligible for distribution, the tax cost of the conversion would need to be paid from other funds. See chapter 18 for a discussion of this new Roth conversion opportunity.
+
+Proposed Legislation and Regulatory Developments
+Q 1:78   What proposals are the Obama administration considering?
+President Barack Obama's proposed fiscal year 2014 budget contains three key provisions potentially impacting 401(k) plans: setting an accumulation cap, putting a 28 percent cap on tax deductions and exclusions from income, and introducing automatic payroll deduction IRAs.
+Cap on Retirement Plan Accumulations
+The accumulation cap would limit the amount any individual could accumulate in a tax-favored retirement account, which includes IRAs, defined contribution plans, and defined benefit plans, to the lump-sum amount needed to purchase the maximum annuity benefit available from a defined benefit plan. The current annuity limit is $205,000, but that limit is adjusted annually for inflation. The lump-sum amount needed to purchase a $205,000 annuity was calculated at $3.4 million in the president’s budget but varies as interest rates change. In the current low interest rate environment, an increase in interest rates would decrease the lump-sum cost of purchasing an annuity, thereby effectively decreasing the accumulation limit. Amounts contributed in excess of the accumulation limit would need to be returned under rules similar to the rules that apply to excess deferrals. Excess accumulations that occur solely as the result of investment earnings and gains would not need to be returned.
+28 Percent Cap on Deductions and Exclusions
+This proposal would limit the value of certain deductions or exclusions from income for taxpayers in the 33 percent, 35 percent, or 39.6 percent tax brackets to 28 percent. For example, if a taxpayer in the 35 percent tax bracket had $100,000 in deductions and exclusions, the value of those tax advantages would be limited to $28,000 instead of the $35,000 they would be worth under current tax law. The types of deductions and exclusions counted toward the 28 percent cap are broad-based and include many non–benefit-related items, such as the mortgage interest rate deduction. They also include contributions to defined contribution plans and IRAs, as well as employer-sponsored health insurance costs paid for by employers.
+Automatic IRA Proposal
+This proposal would require any employer that has at least 10 employees and has been in business for at least two years to facilitate payroll deduction contributions into IRAs for the employees unless it offered some other type of qualified retirement plan. Contributions would be set at a 3 percent default rate, but employees could opt out or change the contribution rate. Employers could designate a single IRA trustee or custodian or let employees pick their own. A default investment fund, as well as a handful of standard, low-cost investment alternatives in which employees could actively invest, would be specified by statute or regulation. Employers with fewer than 100 employees would receive a tax credit to offset the cost of setting up the automatic IRA arrangement and also could receive a more generous tax credit if they choose to start up a qualified plan instead of offering automatic IRAs.
+
+Q 1:79   What significant new guidance has the Treasury Department issued?
+The Department of the Treasury has issued recent guidance in the following areas:
+Updating the Employee Plans Compliance Resolution System (EPCRS)
+The IRS updated its programs allowing plan sponsors to voluntarily correct plan qualification defects (see chapter 20), including making the program available to 403(b) plans (see chapter 22).
+Hurricane Sandy Relief
+The IRS offered relief to Hurricane Sandy victims (see chapter 15).
+Elimination of IRS Letter Forwarding Program
+The IRS no longer assists plan sponsors, through its letter forwarding program, to locate plan participants who have plan benefits but who cannot be located at their last known address.
+Establishment of a prototype document program for 403(b) plans
+Section 403(b) plans were first subject to a written plan document requirement for 2009 plan years. The IRS recently established a prototype program for 403(b) plan documents (see chapter 22 for detailed discussion of this program).
+In-Plan Roth Rollovers and Roth Availability in 457 Plans
+The IRS issued guidance regarding converting a pre-tax account into a Roth IRA via an in-plan rollover (see chapter 18) and allowing governmental 457 plans to offer Roth accounts (see chapter 22).
+Plan Document Issues
+The IRS updated its determination letter and submitter programs and extended the deadline for submitting pre-approved plans updated for the Pension Protection Act (see chapter 3).
+Guidance on Lifetime Income
+The IRS provided guidance on when investment in a deferred annuity contract triggers application of the Qualified Joint and Survivor Annuity and Qualified Preretirement Annuity rules (see chapter 17). It also provided guidance exempting certain longevity annuity contracts from the requirements of the minimum distribution rules (see chapter 16). This guidance is in proposed form and may be finalized in 2013.
+.
+
+Q 1:80   What significant new guidance has the Department of Labor issued?
+The DOL has issued new guidance in the following areas:
+Proposed Update to the Abandoned Plan Program
+The DOL issued proposed changes to its abandoned plan program (see chapter 19).
+Hurricane Sandy Relief
+The DOL provided relief to taxpayers from prohibited transaction penalties or other consequences for failing to timely deposit salary deferral contributions if (1) the failure was solely due to Hurricane Sandy, (2) the employer acted reasonably and prudently, and (3) deposits were made as soon as practicable under the circumstances.
+Definition of Fiduciary Rule
+In 2010 the DOL published a proposed rule changing the definition of when someone becomes a fiduciary by virtue of providing investment advice for a fee (see chapter 5). The DOL received many comments on its proposal and held hearings in March 2011 to collect additional responses to its proposed rule. Based on the comments it received, the DOL withdrew its proposed regulation but committed to releasing a new proposed regulation that is expected to be released in 2013.
+Final Rule on Service Provider Fee Disclosure
+The DOL issued a final rule on disclosures that prospective service providers must make to the hiring plan fiduciary regarding their fees and services (see chapter 4). The original effective date for the rule was July 16, 2011, but it was extended to July 1, 2012.
+Final Rule on Participant Investment and Fee Disclosures
+The DOL issued a final rule on information that must be provided to participants in participant-directed plans regarding fees, services, and investment options (see chapter 19). The DOL also issued a Technical Release creating a special electronic delivery rule for the new participant disclosures, which is also discussed in chapter 19. In May 2012, the DOL issued a Field Assistance Bulletin providing additional guidance on how to comply with various aspects of the participant disclosure rule (see chapter 19).
+Target Date Fund Disclosures
+The DOL issued a proposed rule on new disclosures for target date funds in QDIA notices (see chapter 7) and in participant investment and fee disclosures (see chapter 19). These rules are expected to be finalized in 2013.
+Target Date Fund TIPS for Plan Fiduciaries
+The DOL published an educational document designed to assist plan fiduciaries in establishing a prudent process for the selection and monitoring of target date funds (see chapter 5).
+Final Rule on Eligible Investment Advice Arrangements
+The DOL issued a final rule creating an exemption that allows fiduciary investment advisors to be paid from funds on which they provide advice (see chapter 5).
+Guidance on Open Multiple-Employer Plans
+The DOL issued two Advisory Opinions clarifying the circumstances under which a multiple-employer plan can be treated as a single plan for ERISA purposes (see Q 1:39).
+Advanced Notice of Proposed Rulemaking on Lifetime Income Illustrations
+The DOL published a proposal for including lifetime income illustrations on participant statements (see chapter 19).
+Flexibility on Timing for Delivery of Updated Participant Investment and Fee Disclosures
+The DOL published a Field Assistance Bulletin (FAB) giving plan sponsors an opportunity to “reset” the timing for providing these annual disclosures and proposing a more flexible standard for what might considered an annual disclosure (see chapter 19).
+Definition of When Revenue Sharing Becomes Plan Assets
+The DOL published an Advisory Opinion explaining when revenue sharing payments become plan assets in the context of ERISA Spending Accounts (see chapter 4).
+
+Q 1:81   What other significant guidance has been issued affecting 401(k) plans?
+Other significant guidance affecting 401(k) plans include the following:
+Uniform Fiduciary Standard of Care for Brokers and Advisors.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act [Pub. L. No. 111-203] (Dodd-Frank Act), which became law in 2010, required the SEC to conduct a study to determine whether a uniform standard of care should apply to both brokers and investment advisers (RIAs) under federal securities law. The SEC released its report on January 22, 2011 (see Q 1:82).
+Proposed Rule on Target Date Fund Disclosures.
+In June 2010, the SEC issued proposed rules on information required in marketing materials for target date funds. (See chapter 6.)
+Proposed Changes to 12b-1 Fees.
+In July 2010, the SEC issued a proposed rule that would limit 12b-1 fees in mutual funds. The proposed rule contains other options that funds can use to charge investors for marketing, servicing, and ongoing sales expenses. (See chapter 6.)
+Supreme Court Ruling on the Defense of Marriage Act (DOMA)
+The United States Supreme Court ruled that the section of DOMA limiting the definition of marriage to a union of two persons of opposite gender for federal law purposes was unconstitutional and struck it down (see chapter 17).
+
+Q 1:82   What did the SEC report recommend regarding a uniform standard of care for brokers and advisers?
+The SEC report concluded that a uniform fiduciary standard of conduct, no less stringent than the standard that currently applies to advisers, should apply to both broker-dealers and investment advisers who provide personalized investment advice to retail investors. The report also recommended that the regulation of financial service providers be harmonized. Further study is required to determine which entity or entities should provide oversight and what rules should apply.
+Currently, brokers are regulated by the Financial Industry Regulatory Authority Inc. (FINRA) and RIAs are regulated by the SEC in accordance with the Investment Advisers Act of 1940. RIAs are held to a fiduciary standard, which requires them to put the interests of the client first, and brokers are held to a suitability standard, which requires them to take into account the client’s financial status, objectives, and so forth when making recommendations but does not prohibit conflicts of interest. These standards are independent of fiduciary standards under the Employee Retirement Income Security Act of 1974 (ERISA), and the study does not address when a broker or adviser may be considered an ERISA fiduciary.
+The next step in the process is for the SEC to conduct rulemaking to implement the recommendations. The report outlined numerous areas where rulemaking would be required, but also stated that the result of any changes should minimize cost and disruption and ensure that retail investors would continue to have access to various investment options, as well as choices for how to pay for investment advice. The SEC has not started a rulemaking process to implement its report.
+ 
+* Assumes both $3,750 in annual cash from age 40 to age 65 and all net proceeds of RMDs invested in the side fund.

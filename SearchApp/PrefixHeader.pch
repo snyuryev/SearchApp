@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  SearchApp
+//
+//  Created by Sergey Yuryev on 07/10/14.
+//  Copyright (c) 2014 snyuryev. All rights reserved.
+//
+
+#ifndef SearchApp_PrefixHeader_pch
+#define SearchApp_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define PRECEDING_CHARS    20                  // How many characters before a match to show in the KWIC text?
+#define MAX_KWIC_CHARS     100                 // How much maximim KWIC (KeyWord In Context) text?
+#define FOLLOWING_CHARS    30                  // How many characters after the end of a match to show in the KWIC text?
+#define SYNONYM_FILE_NAME  @"synonyms.txt"     // File containing synonyms, one set per line, individuals separated by pipes
+#define CONTENT_FILE_NAME  @"ch1.txt"          // Content for searching
+#define MATCH_WINDOW       500                 // How many characters (x2) will we look within for a match?  This is our "AND" character distance
+#define MAX_HITS           20                   // How many hits to limit to?
+
+#endif

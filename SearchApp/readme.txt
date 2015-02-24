@@ -1,5 +1,3 @@
-# SearchApp
-
 
 Simple search application.
 
